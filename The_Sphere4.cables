@@ -1,0 +1,1693 @@
+{
+    "_id": "66b1f6f537b8ba4475c740d1",
+    "settings": {
+        "licence": "cc-by-nc-sa",
+        "manualScreenshot": false
+    },
+    "ops": [
+        {
+            "opId": "f1029550-d877-42da-9b1e-63a5163a0350",
+            "id": "7hylgvnmk",
+            "uiAttribs": {
+                "translate": {
+                    "x": -144,
+                    "y": -526.1077196866714
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Max Pixel Density (DPR)",
+                    "value": 2
+                },
+                {
+                    "name": "FPS Limit",
+                    "value": 0
+                },
+                {
+                    "name": "Reduce FPS unfocussed",
+                    "value": 0
+                },
+                {
+                    "name": "Transparent",
+                    "value": 0
+                },
+                {
+                    "name": "Active",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "exe",
+                            "portOut": "trigger",
+                            "objIn": "20uf5g2sd",
+                            "objOut": "7hylgvnmk"
+                        }
+                    ]
+                },
+                {
+                    "name": "width",
+                    "value": 649
+                },
+                {
+                    "name": "height",
+                    "value": 554
+                },
+                {
+                    "name": "Pixel Density",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "opId": "6ee346d0-614e-4709-91a5-dc21ae975caf",
+            "id": "n7xqqof5u",
+            "uiAttribs": {
+                "translate": {
+                    "x": -154.1639426557523,
+                    "y": 625.6659779765073
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "radius",
+                    "value": 0.5
+                },
+                {
+                    "name": "stacks",
+                    "value": 32
+                },
+                {
+                    "name": "slices",
+                    "value": 32
+                },
+                {
+                    "name": "Filloffset",
+                    "value": 1
+                },
+                {
+                    "name": "Render",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "opId": "a5234947-f65a-41e2-a691-b81382903a71",
+            "id": "xx0lcrrub",
+            "uiAttribs": {
+                "translate": {
+                    "x": -154.1639426557523,
+                    "y": 328.6022385171852
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "R",
+                    "value": 0.7487846518048835
+                },
+                {
+                    "name": "G",
+                    "value": 0.9796424751577482
+                },
+                {
+                    "name": "B",
+                    "value": 0.25411761014487544
+                },
+                {
+                    "name": "A",
+                    "value": 1
+                },
+                {
+                    "name": "Roughness",
+                    "value": 0.477
+                },
+                {
+                    "name": "Metalness",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mode index",
+                    "value": 3
+                },
+                {
+                    "name": "Alpha Mode",
+                    "value": "Blend"
+                },
+                {
+                    "name": "Use Clear Coat",
+                    "value": 0
+                },
+                {
+                    "name": "Clear Coat Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Clear Coat Roughness",
+                    "value": 0.5
+                },
+                {
+                    "name": "Use Normal map for Clear Coat",
+                    "value": 0
+                },
+                {
+                    "name": "Use Thin Film",
+                    "value": 0
+                },
+                {
+                    "name": "Thin Film Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Thin Film IOR",
+                    "value": 1.3
+                },
+                {
+                    "name": "Thin Film Thickness (nm)",
+                    "value": 600
+                },
+                {
+                    "name": "Thickness Tex Min",
+                    "value": 300
+                },
+                {
+                    "name": "Thickness Tex Max",
+                    "value": 600
+                },
+                {
+                    "name": "Tonemapping index",
+                    "value": 0
+                },
+                {
+                    "name": "Tonemapping",
+                    "value": "sRGB"
+                },
+                {
+                    "name": "Exposure",
+                    "value": 1
+                },
+                {
+                    "name": "Emission Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Disable geometric roughness",
+                    "value": 0
+                },
+                {
+                    "name": "Use roughness from normal map",
+                    "value": 0
+                },
+                {
+                    "name": "Use Vertex Colours",
+                    "value": 0
+                },
+                {
+                    "name": "Vertex Colour Mode index",
+                    "value": 0
+                },
+                {
+                    "name": "Vertex Colour Mode",
+                    "value": "colour"
+                },
+                {
+                    "name": "Height Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Faster heightmapping",
+                    "value": 0
+                },
+                {
+                    "name": "Double Sided",
+                    "value": 0
+                },
+                {
+                    "name": "Num mip levels",
+                    "value": 0
+                },
+                {
+                    "name": "Diffuse Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Specular Intensity",
+                    "value": 1
+                },
+                {
+                    "name": "Lightmap is RGBE",
+                    "value": 0
+                },
+                {
+                    "name": "Lightmap Intensity",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Next",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Next",
+                            "objIn": "bjb8psnzz",
+                            "objOut": "xx0lcrrub"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "fb4f44d8-e255-4e81-b96e-38e870bc3238",
+            "id": "kit26us0s",
+            "uiAttribs": {
+                "translate": {
+                    "x": -144,
+                    "y": 154.89815842082908
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Size index",
+                    "value": 1
+                },
+                {
+                    "name": "Size",
+                    "value": "Manual"
+                },
+                {
+                    "name": "texture width",
+                    "value": 64
+                },
+                {
+                    "name": "texture height",
+                    "value": 64
+                },
+                {
+                    "name": "Auto Aspect",
+                    "value": 1
+                },
+                {
+                    "name": "Pixel Format index",
+                    "value": 11
+                },
+                {
+                    "name": "Pixel Format",
+                    "value": "RGBA 32bit float"
+                },
+                {
+                    "name": "Filter index",
+                    "value": 1
+                },
+                {
+                    "name": "Filter",
+                    "value": "linear"
+                },
+                {
+                    "name": "Wrap index",
+                    "value": 1
+                },
+                {
+                    "name": "Wrap",
+                    "value": "repeat"
+                },
+                {
+                    "name": "MSAA index",
+                    "value": 0
+                },
+                {
+                    "name": "MSAA",
+                    "value": "none"
+                },
+                {
+                    "name": "Clear",
+                    "value": 1
+                },
+                {
+                    "name": "Slots index",
+                    "value": 2
+                },
+                {
+                    "name": "Slots",
+                    "value": "3"
+                },
+                {
+                    "name": "Texture 0 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 0",
+                    "value": "Default"
+                },
+                {
+                    "name": "Texture 1 index",
+                    "value": 4
+                },
+                {
+                    "name": "Texture 1",
+                    "value": "Position World"
+                },
+                {
+                    "name": "Texture 2 index",
+                    "value": 8
+                },
+                {
+                    "name": "Texture 2",
+                    "value": "Normal"
+                },
+                {
+                    "name": "Texture 3 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 3",
+                    "value": "Default"
+                },
+                {
+                    "name": "Texture 4 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 4",
+                    "value": "Default"
+                },
+                {
+                    "name": "Texture 5 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 5",
+                    "value": "Default"
+                },
+                {
+                    "name": "Texture 6 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 6",
+                    "value": "Default"
+                },
+                {
+                    "name": "Texture 7 index",
+                    "value": 0
+                },
+                {
+                    "name": "Texture 7",
+                    "value": "Default"
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Next",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Next",
+                            "objIn": "xx0lcrrub",
+                            "objOut": "kit26us0s"
+                        }
+                    ]
+                },
+                {
+                    "name": "Result Texture 1",
+                    "links": [
+                        {
+                            "portIn": "Texture In",
+                            "portOut": "Result Texture 1",
+                            "objIn": "3hvnqsalr",
+                            "objOut": "kit26us0s"
+                        }
+                    ]
+                },
+                {
+                    "name": "Result Texture 2",
+                    "links": [
+                        {
+                            "portIn": "Base Texture",
+                            "portOut": "Result Texture 2",
+                            "objIn": "h5nlm7uwd",
+                            "objOut": "kit26us0s"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "a466bc1f-06e9-4595-8849-bffb9fe22f99",
+            "id": "20uf5g2sd",
+            "uiAttribs": {
+                "resizable": true,
+                "resizableY": false,
+                "stretchPorts": true,
+                "translate": {
+                    "x": -144,
+                    "y": -320
+                }
+            },
+            "portsOut": [
+                {
+                    "name": "trigger 0",
+                    "links": [
+                        {
+                            "portIn": "Render",
+                            "portOut": "trigger 0",
+                            "objIn": "kit26us0s",
+                            "objOut": "20uf5g2sd"
+                        }
+                    ]
+                },
+                {
+                    "name": "trigger 6",
+                    "links": [
+                        {
+                            "portIn": "Render",
+                            "portOut": "trigger 6",
+                            "objIn": "h5nlm7uwd",
+                            "objOut": "20uf5g2sd"
+                        }
+                    ]
+                },
+                {
+                    "name": "trigger 12",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "trigger 12",
+                            "objIn": "1ngsbftbl",
+                            "objOut": "20uf5g2sd"
+                        }
+                    ]
+                },
+                {
+                    "name": "trigger 15",
+                    "links": [
+                        {
+                            "portIn": "Render",
+                            "portOut": "trigger 15",
+                            "objIn": "lk7eq85t8",
+                            "objOut": "20uf5g2sd"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "bf24bfd5-61be-4590-a34a-d3fcdcf543be",
+            "id": "8nd5nfwm1",
+            "uiAttribs": {
+                "translate": {
+                    "x": 476.21156281608796,
+                    "y": 334.2713724721223
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Scale",
+                    "value": 0.43
+                },
+                {
+                    "name": "Limit Instances",
+                    "value": 0
+                },
+                {
+                    "name": "Num Instances",
+                    "value": 1640
+                },
+                {
+                    "name": "Billboarding index",
+                    "value": 0
+                },
+                {
+                    "name": "Billboarding",
+                    "value": "Off"
+                },
+                {
+                    "name": "Rotation index",
+                    "value": 1
+                },
+                {
+                    "name": "Rotation",
+                    "value": "Normal"
+                },
+                {
+                    "name": "Color Texture Blendmode index",
+                    "value": 0
+                },
+                {
+                    "name": "Color Texture Blendmode",
+                    "value": "Multiply"
+                },
+                {
+                    "name": "Ignore Alpha Less Than",
+                    "value": 0.5
+                },
+                {
+                    "name": "Multiply Pos X",
+                    "value": 1
+                },
+                {
+                    "name": "Multiply Pos Y",
+                    "value": 1
+                },
+                {
+                    "name": "Multiply Pos Z",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Num",
+                    "value": 4096
+                }
+            ]
+        },
+        {
+            "opId": "6ee346d0-614e-4709-91a5-dc21ae975caf",
+            "id": "2eikoufny",
+            "uiAttribs": {
+                "translate": {
+                    "x": 476.21156281608796,
+                    "y": 26.226693867280403
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "radius",
+                    "value": -0.009
+                },
+                {
+                    "name": "stacks",
+                    "value": 32
+                },
+                {
+                    "name": "slices",
+                    "value": 32
+                },
+                {
+                    "name": "Filloffset",
+                    "value": 1
+                },
+                {
+                    "name": "Render",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "exe",
+                            "portOut": "trigger",
+                            "objIn": "8nd5nfwm1",
+                            "objOut": "2eikoufny"
+                        }
+                    ]
+                },
+                {
+                    "name": "geometry",
+                    "links": [
+                        {
+                            "portIn": "Geometry",
+                            "portOut": "geometry",
+                            "objIn": "8nd5nfwm1",
+                            "objOut": "2eikoufny"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "4ea2d7b0-ca74-45db-962b-4d1965ac20c0",
+            "id": "3hvnqsalr",
+            "uiAttribs": {
+                "height": 150,
+                "resizable": true,
+                "translate": {
+                    "x": -414.62990767034034,
+                    "y": 231.00613651538885
+                },
+                "comment": ""
+            },
+            "portsIn": [
+                {
+                    "name": "Show Info",
+                    "value": 0
+                },
+                {
+                    "name": "Visualize outside 0-1 index",
+                    "value": 1
+                },
+                {
+                    "name": "Visualize outside 0-1",
+                    "value": "Anim"
+                },
+                {
+                    "name": "Alpha index",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha",
+                    "value": "A"
+                },
+                {
+                    "name": "Show Color",
+                    "value": 0
+                },
+                {
+                    "name": "X",
+                    "value": 0.5
+                },
+                {
+                    "name": "Y",
+                    "value": 0.5
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Info",
+                    "value": "64x64 RGBA 32bit float linear repeat\n"
+                }
+            ]
+        },
+        {
+            "opId": "ec55d252-3843-41b1-b731-0482dbd9e72b",
+            "id": "azijz35c9",
+            "uiAttribs": {
+                "translate": {
+                    "x": 463.75961770501533,
+                    "y": -190.49182796725688
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "r",
+                    "value": 0.0528106689453125
+                },
+                {
+                    "name": "g",
+                    "value": 0.5299572944641111
+                },
+                {
+                    "name": "b",
+                    "value": 1
+                },
+                {
+                    "name": "a",
+                    "value": 1
+                },
+                {
+                    "name": "colorizeTexture",
+                    "value": 0
+                },
+                {
+                    "name": "Vertex Colors",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mask Source index",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mask Source",
+                    "value": "Luminance"
+                },
+                {
+                    "name": "Opacity TexCoords Transform",
+                    "value": 0
+                },
+                {
+                    "name": "Discard Transparent Pixels",
+                    "value": 0
+                },
+                {
+                    "name": "diffuseRepeatX",
+                    "value": 1
+                },
+                {
+                    "name": "diffuseRepeatY",
+                    "value": 1
+                },
+                {
+                    "name": "Tex Offset X",
+                    "value": 0
+                },
+                {
+                    "name": "Tex Offset Y",
+                    "value": 0
+                },
+                {
+                    "name": "Crop TexCoords",
+                    "value": 0
+                },
+                {
+                    "name": "billboard",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "trigger",
+                            "objIn": "2eikoufny",
+                            "objOut": "azijz35c9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "17212e2b-d692-464c-8f8d-2d511dd3410a",
+            "id": "h5nlm7uwd",
+            "uiAttribs": {
+                "translate": {
+                    "x": 127.63557143146389,
+                    "y": -173.8798088525076
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Size index",
+                    "value": 0
+                },
+                {
+                    "name": "Size",
+                    "value": "Auto"
+                },
+                {
+                    "name": "Width",
+                    "value": 640
+                },
+                {
+                    "name": "Height",
+                    "value": 480
+                },
+                {
+                    "name": "Filter index",
+                    "value": 1
+                },
+                {
+                    "name": "Filter",
+                    "value": "linear"
+                },
+                {
+                    "name": "Wrap index",
+                    "value": 1
+                },
+                {
+                    "name": "Wrap",
+                    "value": "repeat"
+                },
+                {
+                    "name": "Anisotropic index",
+                    "value": 0
+                },
+                {
+                    "name": "Anisotropic",
+                    "value": "0"
+                },
+                {
+                    "name": "Pixel Format index",
+                    "value": 11
+                },
+                {
+                    "name": "Pixel Format",
+                    "value": "RGBA 32bit float"
+                },
+                {
+                    "name": "Clear",
+                    "value": 1
+                },
+                {
+                    "name": "R",
+                    "value": 0
+                },
+                {
+                    "name": "G",
+                    "value": 0
+                },
+                {
+                    "name": "B",
+                    "value": 0
+                },
+                {
+                    "name": "A",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Next",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "Next",
+                            "objIn": "v1deyir5s",
+                            "objOut": "h5nlm7uwd"
+                        }
+                    ]
+                },
+                {
+                    "name": "texture_out",
+                    "links": [
+                        {
+                            "portIn": "Position Texture",
+                            "portOut": "texture_out",
+                            "objIn": "8nd5nfwm1",
+                            "objOut": "h5nlm7uwd"
+                        }
+                    ]
+                },
+                {
+                    "name": "Aspect Ratio",
+                    "value": 1
+                },
+                {
+                    "name": "Texture Width",
+                    "value": 64
+                },
+                {
+                    "name": "Texture Height",
+                    "value": 64
+                }
+            ]
+        },
+        {
+            "opId": "0655b098-d2a8-4ce2-a0b9-ecb2c78f873a",
+            "id": "1ngsbftbl",
+            "uiAttribs": {
+                "translate": {
+                    "x": 388.5872269609128,
+                    "y": -285.75025310641695
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "min distance",
+                    "value": 1
+                },
+                {
+                    "name": "max distance",
+                    "value": 999999
+                },
+                {
+                    "name": "min rot y",
+                    "value": 0
+                },
+                {
+                    "name": "max rot y",
+                    "value": 0
+                },
+                {
+                    "name": "initial radius",
+                    "value": 2
+                },
+                {
+                    "name": "initial axis y",
+                    "value": 0.5
+                },
+                {
+                    "name": "initial axis x",
+                    "value": 0.25
+                },
+                {
+                    "name": "Smoothness",
+                    "value": 1
+                },
+                {
+                    "name": "Speed X",
+                    "value": 1
+                },
+                {
+                    "name": "Speed Y",
+                    "value": 1
+                },
+                {
+                    "name": "Active",
+                    "value": 1
+                },
+                {
+                    "name": "Allow Panning",
+                    "value": 1
+                },
+                {
+                    "name": "Allow Zooming",
+                    "value": 1
+                },
+                {
+                    "name": "Allow Rotation",
+                    "value": 1
+                },
+                {
+                    "name": "restricted",
+                    "value": 1
+                },
+                {
+                    "name": "Identity",
+                    "value": 1
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "trigger",
+                            "objIn": "azijz35c9",
+                            "objOut": "1ngsbftbl"
+                        }
+                    ]
+                },
+                {
+                    "name": "radius",
+                    "value": 2.7280000000000006
+                },
+                {
+                    "name": "Rot X",
+                    "value": -220.9441954174965
+                },
+                {
+                    "name": "Rot Y",
+                    "value": 88.20000000000007
+                }
+            ]
+        },
+        {
+            "opId": "25696840-bd64-463e-9301-964a81385bfb",
+            "id": "v1deyir5s",
+            "uiAttribs": {
+                "translate": {
+                    "x": 127.63557143146389,
+                    "y": 16.045197740112997
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Radius",
+                    "value": -0.39
+                },
+                {
+                    "name": "Center X",
+                    "value": 0.5
+                },
+                {
+                    "name": "Center Y",
+                    "value": 0.5
+                }
+            ]
+        },
+        {
+            "opId": "aac7f721-208f-411a-adb3-79adae2e471a",
+            "id": "k9e2bjeg4",
+            "uiAttribs": {
+                "translate": {
+                    "x": 351.7740112994351,
+                    "y": -150.5084745762712
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Speed",
+                    "value": 0.07
+                },
+                {
+                    "name": "Play",
+                    "value": 1
+                },
+                {
+                    "name": "Sync to timeline",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Time",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "Time",
+                            "objIn": "noruo2p8m",
+                            "objOut": "k9e2bjeg4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "d24da018-9f3d-428b-85c9-6ff14d77548b",
+            "id": "noruo2p8m",
+            "uiAttribs": {
+                "translate": {
+                    "x": 323.75141242937855,
+                    "y": -99.57903748835446
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "phase",
+                    "value": 0
+                },
+                {
+                    "name": "frequency",
+                    "value": 1
+                },
+                {
+                    "name": "amplitude",
+                    "value": 5
+                },
+                {
+                    "name": "asine",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "result",
+                    "links": [
+                        {
+                            "portIn": "number1",
+                            "portOut": "result",
+                            "objIn": "17stnuyyw",
+                            "objOut": "noruo2p8m"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "c8fb181e-0b03-4b41-9e55-06b6267bc634",
+            "id": "17stnuyyw",
+            "uiAttribs": {
+                "mathTitle": true,
+                "translate": {
+                    "x": 246.01129943502826,
+                    "y": -86.57897100256722
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "number2",
+                    "value": 5
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "result",
+                    "links": [
+                        {
+                            "portIn": "Strength",
+                            "portOut": "result",
+                            "objIn": "v1deyir5s",
+                            "objOut": "17stnuyyw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "650baeb1-db2d-4781-9af6-ab4e9d4277be",
+            "id": "bjb8psnzz",
+            "uiAttribs": {
+                "translate": {
+                    "x": -144,
+                    "y": 500
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "posX",
+                    "value": 0
+                },
+                {
+                    "name": "posY",
+                    "value": 0
+                },
+                {
+                    "name": "posZ",
+                    "value": 0
+                },
+                {
+                    "name": "scale",
+                    "value": 1
+                },
+                {
+                    "name": "rotX",
+                    "value": -0.13
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "trigger",
+                    "links": [
+                        {
+                            "portIn": "render",
+                            "portOut": "trigger",
+                            "objIn": "n7xqqof5u",
+                            "objOut": "bjb8psnzz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "aac7f721-208f-411a-adb3-79adae2e471a",
+            "id": "gdrg6ucso",
+            "uiAttribs": {
+                "translate": {
+                    "x": 209.54463413160295,
+                    "y": 382.84036658262016
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Speed",
+                    "value": 0.07
+                },
+                {
+                    "name": "Play",
+                    "value": 1
+                },
+                {
+                    "name": "Sync to timeline",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Time",
+                    "links": [
+                        {
+                            "portIn": "value",
+                            "portOut": "Time",
+                            "objIn": "fd603177z",
+                            "objOut": "gdrg6ucso"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "d24da018-9f3d-428b-85c9-6ff14d77548b",
+            "id": "fd603177z",
+            "uiAttribs": {
+                "translate": {
+                    "x": 181.52203526154642,
+                    "y": 433.7698036705369
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "phase",
+                    "value": 0
+                },
+                {
+                    "name": "frequency",
+                    "value": 1
+                },
+                {
+                    "name": "amplitude",
+                    "value": 180
+                },
+                {
+                    "name": "asine",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "result",
+                    "links": [
+                        {
+                            "portIn": "number1",
+                            "portOut": "result",
+                            "objIn": "su08g6eg0",
+                            "objOut": "fd603177z"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "c8fb181e-0b03-4b41-9e55-06b6267bc634",
+            "id": "su08g6eg0",
+            "uiAttribs": {
+                "mathTitle": true,
+                "translate": {
+                    "x": 103.78192226719614,
+                    "y": 446.76987015632415
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "number2",
+                    "value": 180
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "result",
+                    "links": [
+                        {
+                            "portIn": "rotY",
+                            "portOut": "result",
+                            "objIn": "bjb8psnzz",
+                            "objOut": "su08g6eg0"
+                        },
+                        {
+                            "portIn": "number1",
+                            "portOut": "result",
+                            "objIn": "di2ns7bg0",
+                            "objOut": "su08g6eg0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "86fcfd8c-038d-4b91-9820-a08114f6b7eb",
+            "id": "di2ns7bg0",
+            "uiAttribs": {
+                "mathTitle": true,
+                "translate": {
+                    "x": 103.78192226719614,
+                    "y": 547.2159993486624
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "number2",
+                    "value": 2
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "result",
+                    "links": [
+                        {
+                            "portIn": "rotZ",
+                            "portOut": "result",
+                            "objIn": "bjb8psnzz",
+                            "objOut": "di2ns7bg0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "opId": "0e68dbf4-dc3e-448d-b1e1-256dde99802a",
+            "id": "j14a1kt3o",
+            "uiAttribs": {
+                "translate": {
+                    "x": 583.5316390978362,
+                    "y": 196.16251249734316
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Blend Mode index",
+                    "value": 0
+                },
+                {
+                    "name": "Blend Mode",
+                    "value": "normal"
+                },
+                {
+                    "name": "Amount",
+                    "value": 1
+                },
+                {
+                    "name": "Alpha Mask index",
+                    "value": 0
+                },
+                {
+                    "name": "Alpha Mask",
+                    "value": "Off"
+                },
+                {
+                    "name": "Time",
+                    "value": 0
+                },
+                {
+                    "name": "Movement",
+                    "value": 0
+                },
+                {
+                    "name": "Num",
+                    "value": 20
+                },
+                {
+                    "name": "seed",
+                    "value": 0
+                },
+                {
+                    "name": "Fill index",
+                    "value": 1
+                },
+                {
+                    "name": "Fill",
+                    "value": "Random"
+                },
+                {
+                    "name": "Draw Isolines",
+                    "value": 0
+                },
+                {
+                    "name": "Draw Distance",
+                    "value": 0
+                },
+                {
+                    "name": "Draw Center",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "opId": "17212e2b-d692-464c-8f8d-2d511dd3410a",
+            "id": "lk7eq85t8",
+            "uiAttribs": {
+                "translate": {
+                    "x": 583.5316390978362,
+                    "y": 129.77439760636284
+                }
+            },
+            "portsIn": [
+                {
+                    "name": "Size index",
+                    "value": 0
+                },
+                {
+                    "name": "Size",
+                    "value": "Auto"
+                },
+                {
+                    "name": "Width",
+                    "value": 640
+                },
+                {
+                    "name": "Height",
+                    "value": 480
+                },
+                {
+                    "name": "Filter index",
+                    "value": 1
+                },
+                {
+                    "name": "Filter",
+                    "value": "linear"
+                },
+                {
+                    "name": "Wrap index",
+                    "value": 1
+                },
+                {
+                    "name": "Wrap",
+                    "value": "repeat"
+                },
+                {
+                    "name": "Anisotropic index",
+                    "value": 0
+                },
+                {
+                    "name": "Anisotropic",
+                    "value": "0"
+                },
+                {
+                    "name": "Pixel Format index",
+                    "value": 4
+                },
+                {
+                    "name": "Pixel Format",
+                    "value": "RGBA 8bit ubyte"
+                },
+                {
+                    "name": "Clear",
+                    "value": 1
+                },
+                {
+                    "name": "R",
+                    "value": 0
+                },
+                {
+                    "name": "G",
+                    "value": 0
+                },
+                {
+                    "name": "B",
+                    "value": 0
+                },
+                {
+                    "name": "A",
+                    "value": 0
+                }
+            ],
+            "portsOut": [
+                {
+                    "name": "Next",
+                    "links": [
+                        {
+                            "portIn": "Render",
+                            "portOut": "Next",
+                            "objIn": "j14a1kt3o",
+                            "objOut": "lk7eq85t8"
+                        }
+                    ]
+                },
+                {
+                    "name": "texture_out",
+                    "links": [
+                        {
+                            "portIn": "Color Texture",
+                            "portOut": "texture_out",
+                            "objIn": "8nd5nfwm1",
+                            "objOut": "lk7eq85t8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Aspect Ratio",
+                    "value": 1.1714801444043321
+                },
+                {
+                    "name": "Texture Width",
+                    "value": 649
+                },
+                {
+                    "name": "Texture Height",
+                    "value": 554
+                }
+            ]
+        }
+    ],
+    "visibility": "public",
+    "users": [],
+    "usersReadOnly": [],
+    "userOps": [],
+    "tags": [
+        "sphere",
+        "animation"
+    ],
+    "shortId": "X3ZeFk",
+    "name": "The_Sphere4",
+    "userId": "5bd4817b1f7160f00c7a5086",
+    "updatedByUser": "",
+    "log": [
+        {
+            "_id": "66b1f6f537b8ba4475c740d4",
+            "created": "2024-08-06T10:12:05.236Z",
+            "key": "importproject",
+            "text": "[bestform](/user/bestform) created patch by import",
+            "id": "66b1f6f537b8ba4475c740d4"
+        },
+        {
+            "_id": "66b1f7fe9be195448e665a3b",
+            "created": "2024-08-06T10:16:30.915Z",
+            "key": "project_change_licence",
+            "text": "[bestform](/user/bestform) changed licence to \"cc-by-nc-sa\"",
+            "id": "66b1f7fe9be195448e665a3b"
+        },
+        {
+            "_id": "66b1f80337b8ba4475c74344",
+            "created": "2024-08-06T10:16:35.662Z",
+            "key": "project_change_description",
+            "text": "[bestform](/user/bestform) changed description",
+            "id": "66b1f80337b8ba4475c74344"
+        },
+        {
+            "_id": "66b1f80337b8ba4475c74345",
+            "created": "2024-08-06T10:16:35.662Z",
+            "key": "project_change_visibility",
+            "text": "[bestform](/user/bestform) changed visibility to \"public\"",
+            "id": "66b1f80337b8ba4475c74345"
+        },
+        {
+            "_id": "66b1f8147d1e2e4476f66a95",
+            "created": "2024-08-06T10:16:52.617Z",
+            "key": "project_change_name",
+            "text": "[bestform](/user/bestform) changed name to \"The Sphere\"",
+            "id": "66b1f8147d1e2e4476f66a95"
+        },
+        {
+            "_id": "66b1f8147d1e2e4476f66a96",
+            "created": "2024-08-06T10:16:52.617Z",
+            "key": "project_change_visibility",
+            "text": "[bestform](/user/bestform) changed visibility to \"public\"",
+            "id": "66b1f8147d1e2e4476f66a96"
+        },
+        {
+            "_id": "66b1f82c37b8ba4475c7438b",
+            "created": "2024-08-06T10:17:16.291Z",
+            "key": "project_change_visibility",
+            "text": "[bestform](/user/bestform) changed visibility to \"public\"",
+            "id": "66b1f82c37b8ba4475c7438b"
+        },
+        {
+            "_id": "66b1f82fa01e28448dd14898",
+            "created": "2024-08-06T10:17:19.880Z",
+            "key": "project_manual_screenshot",
+            "text": "[bestform](/user/bestform) changed screenshot mode to manual",
+            "id": "66b1f82fa01e28448dd14898"
+        },
+        {
+            "_id": "66b1f840a01e28448dd148b2",
+            "created": "2024-08-06T10:17:36.231Z",
+            "key": "project_manual_screenshot",
+            "text": "[bestform](/user/bestform) changed screenshot mode to automatic",
+            "id": "66b1f840a01e28448dd148b2"
+        },
+        {
+            "_id": "66b25e91c619669420afd9cd",
+            "created": "2024-08-06T17:34:09.680Z",
+            "key": "patch_export",
+            "text": "Exported patch to \"download\" by [MajesticBlvd](/user/MajesticBlvd) (Export 1)",
+            "id": "66b25e91c619669420afd9cd"
+        },
+        {
+            "_id": "66c7939342d25de9e6d9178e",
+            "created": "2024-08-22T19:37:55.883Z",
+            "key": "patch_export",
+            "text": "Exported patch to \"standalone\" by [alea](/user/alea) (Export 2)",
+            "id": "66c7939342d25de9e6d9178e"
+        },
+        {
+            "_id": "66c9425e1e26585e0854098a",
+            "created": "2024-08-24T02:15:58.732Z",
+            "key": "patch_export",
+            "text": "Exported patch to \"download\" by [cyrstem](/user/cyrstem) (Export 3)",
+            "id": "66c9425e1e26585e0854098a"
+        }
+    ],
+    "creator": "5bd4817b1f7160f00c7a5086",
+    "created": "2024-08-06T10:12:05.215Z",
+    "updated": 1736681241662,
+    "__v": 0,
+    "ui": {
+        "viewBox": {},
+        "timeLineLength": 20,
+        "texPreview": {},
+        "bookmarks": [],
+        "viewBoxesGl": {
+            "0": {
+                "x": -29.347532111188784,
+                "y": 141.68725096149706,
+                "z": 776.9779637018509
+            }
+        },
+        "outline": {
+            "includeBookmarks": true,
+            "includeSubpatches": true,
+            "includeCommented": true,
+            "includeComments": true,
+            "includeAreas": true,
+            "includeColored": true
+        },
+        "renderer": {
+            "w": 649,
+            "h": 554,
+            "s": 1
+        }
+    },
+    "views": 2,
+    "statsAdmin": {
+        "filenameScreenshots": [
+            "_screenshots/screenshot.png",
+            "_screenshots/screenshot_1722939440306.png",
+            "_screenshots/screenshot_converted.jpg",
+            "_screenshots/screenshot_converted.webp"
+        ],
+        "filenameExports": [
+            "_exports/cables_The_Sphere2.zip",
+            "_exports/cables_The_Sphere3.zip"
+        ],
+        "filenameAssets": [],
+        "hasOldScreenshots": false,
+        "hasOldExports": false,
+        "sizeScreenshots": 0,
+        "sizeExports": 0,
+        "sizeAssets": 0
+    },
+    "cachedUsername": "bestform",
+    "description": "",
+    "published": "2024-08-06T10:17:16.296Z",
+    "cachedNumFavs": 6,
+    "deployments": {
+        "lastDeployment": {
+            "date": 1724465758732,
+            "service": "download",
+            "number": 3
+        }
+    },
+    "exports": 4,
+    "link": "/p/X3ZeFk",
+    "thumbnail": "/thumb/l/66b1f6f537b8ba4475c740d1/thumb.webp",
+    "id": "66b1f6f537b8ba4475c740d1",
+    "summary": {
+        "title": "The_Sphere4"
+    },
+    "opsHash": "75e337016dc723a145ea800dbb9a308f7cceb217",
+    "buildInfo": {
+        "updateWarning": false,
+        "core": {
+            "timestamp": 1734517970354,
+            "created": "2024-12-18T10:32:50.354Z",
+            "git": {
+                "branch": "master",
+                "commit": "20b730583e0a440aa00951d2b66a7e8f3d7db458",
+                "date": "1734433453",
+                "message": "docs"
+            }
+        },
+        "ui": {
+            "timestamp": 1734517980598,
+            "created": "2024-12-18T10:33:00.598Z",
+            "git": {
+                "branch": "master",
+                "commit": "15e5cd7a7259d6da4077e33c8a7e3f8274789546",
+                "date": "1734429017",
+                "message": "default ops"
+            }
+        },
+        "api": {
+            "timestamp": 1734518001651,
+            "created": "2024-12-18T10:33:21.651Z",
+            "git": {
+                "branch": "master",
+                "commit": "79f65e816ac13c00b689a8f7306c43739f90bff9",
+                "date": "1734432815",
+                "message": "Merge remote-tracking branch 'origin/develop'"
+            },
+            "platform": {
+                "os": ":win",
+                "npm": "10.5.2",
+                "node": "20.13.1"
+            },
+            "version": "0.5.0"
+        }
+    },
+    "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoCAYAAADHMkpRAAAAAXNSR0IArs4c6QAAIABJREFUeF7t3V+obcdhH+B1z9GVokiunaY517HiYFu0RKqEDQpuDTV2JOhDaaFBUGy/9aExAb+5L4EY10iQl/Y5rfPQN8sYhAsxpQTurUwf0pgYbOsiGYcrm7iOuIcklms50vU995wy293y1tbee82sNbP+zbfBNNVZa/58s4R+zKyZdalpmovGjwABAgQIECBAoBqBSwJgNWOtowQIECBAgACBlYAA6EEgQIAAAQIECFQmIABWNuC6S4AAAQIECBAQAD0DBAgQIECAAIHKBATAygZcdwkQIECAAAECAqBngAABAgQIECBQmYAAWNmA6y4BAgQIECBAQAD0DBAgQIAAAQIEKhMQACsbcN0lQIAAAQIECAiAngECBAgQIECAQGUCAmBlA667BAgQIECAAAEB0DNAgAABAgQIEKhMQACsbMB1lwABAgQIECAgAHoGCBAgQIAAAQKVCQiAlQ247hIgQIAAAQIEBEDPAAECBAgQIECgMgEBsLIB110CBAgQIECAgADoGSBAgAABAgQIVCYgAFY24LpLgAABAgQIEBAAPQMECBAgQIAAgcoEBMDKBlx3CRAgQIAAAQICoGeAAAECBAgQIFCZgABY2YDrLgECBAgQIEBAAPQMECBAgAABAgQqExAAKxtw3SVAgAABAgQICICeAQIECBAgQIBAZQICYGUDrrsECBAgQIAAAQHQM0CAAAECBAgQqExAAKxswHWXAAECBAgQICAAegYIECBAgAABApUJCICVDbjuEiBAgAABAgQEQM8AAQIECBAgQKAyAQGwsgHXXQIECBAgQICAAOgZIECAAAECBAhUJiAAVjbgukuAAAECBAgQEAA9AwQIECBAgACBygQEwMoGXHcJECBAgAABAgKgZ4AAAQIECBAgUJmAAFjZgOsuAQIECBAgQEAA9AwQIECAAAECBCoTEAArG3DdJUCAAAECBAgIgJ4BAgQIECBAgEBlAgJgZQOuuwQIECBAgAABAdAzQIAAAQIECBCoTEAArGzAdZcAAQIECBAgIAB6BggQIECAAAEClQkIgJUNuO4SIECAAAECBARAzwABAgQIECBAoDIBAbCyAdddAgQIECBAgIAA6BkgQIAAAQIECFQmIABWNuC6S4AAAQIECBAQAD0DBAgQIECAAIHKBATAygZcdwkQIECAAAECAqBngAABAgQIECBQmYAAWNmA6y4BAgQIECBAQAD0DBAgQIAAAQIEKhMQACsbcN0lQGBcgeN/+M+bO3/xJ+M2Qu0ECFQvIABW/wgAIEBgSIGjv//gqrrzv70xZLXqIkCAwJsEBEAPBAECBAgQIECgMgEBsLIB110CBLoLhNm7sIR7+8/+sHshG3eGsi7+5obZwCyaCiFAIEVAAEzRci0BAtULhBA49PKtoFj9YweAQHYBATA7qQIJECBAgAABAtMWEACnPT5aR4DAwgT6ziD2vX9hnLpDgEBHAQGwI5zbCBBYpsClX3pPc/HD7xXpXI53CB0jU2RoFEqgOgEBsLoh12EC0xa49AvvaC5ef2W0RoYA2Lz2SnQbphLI7vqNf9mc//V3Vv/zI0CAQJuAANgm5O8ECAwmEMLf0bs+0Nx56bnB6uxbkQ0afQXdT4DAGAIC4Bjq6iRAgECCQJf3/qYyM5nQTZcSIDCggAA4ILaqCBAYV2Co5eXL/+R3V597y3VcTJcw54sj4z5raicwdQEBcOojpH0ECGQRCO/2hQB4/vI3spR3qJAuM3YlGhXeCzz79ldKFK1MAgRmLiAAznwANZ8AAQL7BI7+wT+yKcTjQYDATgEB0INBgACBiQjkmDmMXS4O4TD8zwzhRAZfMwgMLCAADgyuOgIE5i0QlpGbe99R5KzAHDuKYwNgGAVLxPN+FrWeQB8BAbCPnnsJEBhV4Ph9H23O/+ob0Wf25WpsycOic7VROQQIEDgkIAB6PggQmK3AULt6Zwuk4QQIENgjIAB6NAgQIDCgQM7QmrLcu9nFcF/4haNqdv28HzjgA6EqAiMJCIAjwauWAIH8An2XZlM/A5fagxD+Qh25jqLpetZfjs0mqX13PQEC0xIQAKc1HlpDoCqB1YaKpsn2Dl/fAJdzdq6qgdRZAgRmJyAAzm7INJjAcgRWgS0EwB9+bzmdWkhPnCG4kIHUDQJ7BARAjwYBAgQyCZSYQey6zLvZpbZ3/ra7H46HCb/NMwJDILz7w59uXv/yJzNpKYYAgTEFBMAx9dVNgEAxgdzv28U0tMSxNKnhbVc7vfMXM3quIVCXgABY13jrLYGqBPpuCqkKS2cJEKhKQACsarh1lgABArsFYpeaHRHjCSKwDAEBcBnjqBcECBQUKPFu37q5OT8tF0Lc5X/6u82t//7vkzVyLDUnV+oGAgRGExAAR6NXMQECMQK5j4qJqXP7mhLv9pUIgKFM7/t1GWH3EKhPQACsb8z1mMCsBBwVM5/hcnTMfMZKSwkIgJ4BAgQIzEyg75J07Pt+myy7jobZZgvXbB4dMzNWzSVQlYAAWNVw6ywBAkfvfLS5eOX72b4+ckg05/t9m0vGR+/6QHPnpec6D6b3/TrTuZHAYgQEwMUMpY4QmKZA39mq3L0ackm5RADM7aE8AgTqFBAA6xx3vSYwmMDRr35g9am3i9dfGaxOFfUX2NxMEpZ2z//6O6v/7frtOxomfDnk7MU/3ntf/1YqgQCBrgICYFc59xEgQKCAQM5dz32WesO9F39zozn/2xtN2+aOfX9vu68AnyIJEIgUEAAjoVxGgMC0BMZcXj1+8IlVMAozm7l/qyXq117JMmPaZbNH7v4ojwCBaQoIgNMcF60iQKBFYMh3+bab4qy9uMezbek4rhRXESBQQkAALKGqTAIECAwk0HeTTddZwl/47f/S/PR//aeD7/eFJeDwWy8F73uHcCAq1RAgsCEgAHocCBCoXiDMJpZYzn3LzGHYEPP6K1nr6vuVkj7vCVb/4AAgMGMBAXDGg6fpBOYs0HfmKmffh9qpPKU+5/RLKcth0SlariVQTkAALGerZAIEDgiE0HX+8jcYzUAgJbSF5d5w/MvrX/7kzp55L3AGA66JVQgIgFUMs04SIFBSoNTMXtYdwT2Wn0OgC+/7+REgsBwBAXA5Y6knBCYvUPpduzF2BofwF+otMZuZMwCWCql9HzpnBfYVdD+BbgICYDc3dxEg0EEgZ6DZVX3OQ5Q7dK/aW2JCXLjmrof+1ZtmEnf9s2oRdZzAwAIC4MDgqiMwJ4HSgW1OFrnbmntGLsdY3fMv/mNz+3//4eqQ65RfyjuCKeW6lgCBcgICYDlbJROYvUCOUDE3hKGWkfse37LtmmOsHHA9t6dVewl0FxAAu9u5kwCBjAJDBa+2Jk95GXl9sPJcDlRu2/G73jEcNpiE//vs219pGx5/J0Agk4AAmAlSMQQI9BOYcvDq17M8d682m9x/siqsTwDsM1MYdgOfvfjH0fW3BcC1TMw7hHkUlUKAwFpAAPQsECCwWIHc79m1Qa0OlM78pY9QZwhtoS85dhr3CYCCWtsT4O8E5iMgAM5nrLSUAIEEgZyhKbbaoQNnbLuGui42IIaZwfDbteQb843hofqjHgJLFhAAlzy6+kaAQHUCfUPopft+pTm68o+bOy89l2TX9gWQzcJig2JSA1xMgECSgACYxOViAgSCwFDfzh1bu/TB1W9YZlw2zjE2RycPN+enL4zNr34CBAoKCIAFcRVNgEB3gb4zWd1r/vmduY9q2dWmKfQzh9WhMmLOCQyzgps7gVNmFEu3X/kEliggAC5xVPWJwMwFQig6etcHkpchZ97tQZvfdXazSzCL3Q08KIDKCFQuIABW/gDoPgEC+QW6hqu2luQ8K7FPG73D1zZS/k5g+gIC4PTHSAsJEOgpEJZyUzc19Kkyx3t4feqfy72HlobXM423v/nMoGM3FzvtJNBXQADsK+h+AgQmL1DDe3bbg9C3z11nG1OWe9tmEkNwD78hw/vkH2YNJJBJQADMBKkYAjULdA0LUzAL37+99MsPNnf+4k/2NqdvmGrr5+orKPe+o7n44ffaLo36e44zEKf2ZZahZ3GjoF1EYMYCAuCMB0/TCUxFoE9YKB2u+hqtN6Sc/9U3Vl/5KPHLHQBztTFm9+6+uu5+4rPNne9+9Y3Zu9jvGG/vBl6X/4v/7n82t65+zmxgrsFVTvUCAmD1jwAAAuMKtG1GWH9erXntlWIBbFyB9Npzhea2mdtDoS31ix37gt1278NM3/F7P9L89Orn0mHcQYBAtIAAGE3lQgIExhBYz47l+hbuUH0oNauXY3l3bdBn5nYox1BPOBIozMCGn6XgIeXVtWQBAXDJo6tvBAYWyDUzVaLZpQLZvra2za6V6ONUykzdCLJ5APSuPlx+7N82t7/+X1d/CkvBf/dHvzWVrmoHgdkKCICzHToNJzA9gVXomfBSbdty8/REu7fo0tve2Rz/6geas+/8j86F3PXIk6t7z64/m1RGSgBMKtjFBAhkExAAs1EqiACBIDD1EDjVUSrx9ZPw/uT5yz9bOp3bb98RMWFzSfh5R3BuI6q9UxMQAKc2ItpDYOYCSw2AQyzpjrGEfnTyUHN++mKnpy7MEKbMDqZ8Rm7XDuTw/t89T3zWbuBOo+UmAm8WEAA9EQQIzEKgpuXbtgE5+pXfaML/zl74b22Xtv793o99obl17alOITCEx/BLCZBthz+3NtgFBAhkERAAszAqhACB0gJznFkstfHkrof/9Yo7RwAsPW4x5cecEbhr6fdtf3DR/Pj3wn/G/AgQSBUQAFPFXE+AwKwFhpxJLBUAhxyAzhtBHnyiuXPz+ebi1dPW5obl3lWg/fZX9l676/gXR8K00rqAwF4BAdDDQYBAVQIhNJT8qkdfzD7v5G3XHcLb8clDza1rT3duVpdl3s6VJdwo/CVguZTADgEB0GNBgEARgTku2bZBlN6kkSOwtfUh998vvf3dzcWPvh9d7KX7T5pL95005zevH7wnBLxw5t++Jd7wt7OXnmvuet9HnQsYre9CAj8XEAA9DQQINNvBJsfS5RID4NRnD7s8ymGG7/IjT3aeJbz7w59ubn/rS9EhMDYAhr6Y5esyou4hECcgAMY5uYrAYgV2fVqs9ExXV8wlhsquFvc8/vvNndMXk45h2VVXCIBHJw/3LqdrPzbvu/T3Hmgu/u8P9hYVAmH43XnpuTddEzaIOBcwxwgooyYBAbCm0dZXAj0FShxWnNKkcLDxxQ+/11y8/krKbaNemyuobXditRP4/OzgxolcHe/6XuLl93+8ObtxNWojyPG7P9ic/+gHBwPgeifwne9+9U0h0ExhrpFWTk0CAmBNo62vBAislrvDb6gQ2TU85Rqq1MOat+sN7b/n8c80r33xE8lNCsu9MbuAUwsOQXA7BKaW4XoCtQsIgLU/AfpfrcBUl3lLD8iuJe/SdaaU3zewvWWm8JEnm/PTF5IOa05pb5drj6480lz85LQ1HK6//PF3f/RbO6vZDILh2uP3fsRScJcBcU+VAgJglcOu0wR+9oL9lI9DmeoYlZ7Ryx0AYxz71BnCXPi17erdbEdsAAz3eL8vZgRdQyBdQABMN3MHAQI7BMKMYphdO3/5G2/8dfXO3uuvrN7bW8JvvRza9dNpuQ1yhdHwnuLt689OapZwn9W+jSD7/nluc+URWIqAALiUkdQPAhMQ2HWcTO537ea4dJ0rqG0OcdcvdAz5mKQc+RLaFbNpZN/7f+tzAe0GHnKE1TVnAQFwzqOn7QQqExh7F3IX7ikc7tw3gHbdyZwaALv4ru+xE7iPnntrFBAAaxx1fSZQuUCfd97mRpcjgPYNkLvMYncIt71juD4aZj3zZzPI3J5Q7R1LQAAcS169BAiMJjDld97u/dgXVu/jnV1/djSflIpDkLvrwSea2998JuW21T3hjMC2Xyg//EocJ9NWt78TWLKAALjk0dU3AgcE5ricOoUBDTNqJY9VKTHb1ubW933C2Nm8tnbE/v3Qcq+l4FhF19UuIADW/gTof9UCpTdUbO4MLl3XUANZOgDG9qPPAc2xdeS4Lizhxh4REzubGDZ83Lr6ubd8Ei60d9/XQnL0RRkEliQgAC5pNPWFwAQFwtEw4RiY9f/bt4ljzJBNtc1DWYR6Lj/yZHPr2tPJFCkBMLlwNxAg0FlAAOxM50YCBIYWmMus16ZLn/CUwzfUf3TycO93CnNvnIkNhmFW8PjKowffF3zbH1w04Wshd1567g2yQ7OEOVyVQWDuAgLg3EdQ+wkQSBbIHWaSG3DghtxLzLkC4KE+tu3U3XXv5tdA2t7ba3vHcH2/HcA5n0RlLV1AAFz6COsfAQJvEZjyLuDcATBm+PuGxL47dVM/93aovs0Q2BYsY2xcQ2CpAgLgUkdWvwhECCxlY0ZEV7NdMqXZw1xt2QyAuWfRYpd61wMUjoe5c/P5g8e+HJpx3Gz/vq+GZHsYFERgxgIC4IwHT9MJ9BEI4a+59x1Fv9MbgkX4nZ++2Kepk7p3jBm6fQBDzWT2eY8xJtDlGGCzfTkUlVGTgABY02jrK4GBBfqeLzdwc4tUN7ZBrhCea7ZxE7nt3b71tW3vGIbwd88Tn11tBFn/1jOBd7771Z3HxRQZbIUSmJGAADijwdJUArULjB2muvj3fb+uS52b9/Q1i1lG3dzQEdvetlDXJShu3hN2AW8Gwth2uY5ALQICYC0jrZ8EFiCQ49y7XDNipTjDp+BuXXtq0GXzviYpYS7GLWZm8NC7hZubSsJMYPhtHhET0wbXEFi6gAC49BHWPwIE3iTQd0asNGeOkJvaxpImqbOD4fqj+6+0fif4UADcfh8wdZdxqp/rCcxRQACc46hpMwECowj02QyRu8FDH4rdNZimBsCuTvsCoc0hXUXdt3QBAXDpI6x/BHYIDBVkuoaGKQ9aic0QXfs7lG/o8/HJQ50+BXeobzFLveH+cN2l+04OflN4X9AMXwn58e+F/9T5ESCwKSAAeh4IVCpQOsgMPUM11WEM7/Tdvv5s70+xde1fOCrmzumLRevvchB07FJv136v7zMD2FfQ/UsVEACXOrL6RWBhAnMNlKmzdKnXtw1z7vJ21TfWJpDQlvOb19/SpOMHfrM5+rXfbG7/2X9e/S334dZt5v5OYA4CAuAcRkkbCRBYCeSYtcxRRqnhGCvklpwljF3mXZuG68Ph0be/+cxB5tRyS42ZcgnMVUAAnOvIaTcBAp0Ehvp6RqfGJdzU9+iWzapiZgljrtk3O3jxk9ODn3ZL6PbeS0MgvOeJ/9Dcfv5LbzryxYHQOXSVsUQBAXCJo6pPBAgUESg5U5ba4FIbM3a1o1RdsbN4MbOC+zaKrM8BPH7vR5qfXv1cKrPrCSxWQABc7NDqGIHdAl1ncng2TRe7LvfktJ7Ckveud/BiQl0fh+1waTNIH033LlFAAFziqOoTgT0CQ71jVvJg4TkNbqmZsxSDIZa8wzt756/ePHhMS0qbY2YG2+oMfz+7cfWNamM+aZfSRtcSmLuAADj3EdR+AhMUCMHn/PSFbJ8zG/t7ukMR53aLbXfJWcKYMLfdzsvv//gqvF28erq3C23l2vkbO/quq1VAAKx15PWbwIwEcs0ojr0c20Y+xGzdrjaUrDcmzLW5hL+3Bb7w9+Mrj77lE3LrpebzH7+8qsY3gWO0XVODgABYwyjrIwECq/f37nn8M82ta09lm5kckzWEtlvXnh6kCbkC+HZj20Ld+vrY9wXbyvNN4EEeF5XMREAAnMlAaSYBAuMKjP1Fj+3el1y23a4r55Ez67JLfwlk+9vAloTH/fdH7dMTEACnNyZaRIDABAW6LB93uSdn14fa9JNrmXdzxu/Q+3/huravj6xnA9fHwISlXzOAOZ8uZc1dQACc+whqP4EIgaFmi8YOPBEUg10yVPhq61DMmMRcc6ietqXXtjZu/j12uTelzLse/TfN2fNfSrnFtQQWLyAALn6IdZBA05R8yX/TNyyT5n7Hrm84mcv4l3rPrq3/JY+qyRnm2kLmobrCkTB3bj7fHJ08vOKwEaTtqfD3GgQEwBpGWR8JDCSQO6zlnEXL3bbcpGMFwNCPtvfjLr393c3Fj75/sMv7DlpuC24xjjmDZEx9riFQg4AAWMMo6yOBygVKznKNQTv0J+nu/vCnm9vf+tLeELj5nl2sR9s7fLHl7Ltu10HRud9V7NtG9xMYU0AAHFNf3QQIzEKgxNJ2n47HzmYO8e5nmJ0Lv7ZNG7v6uy84xswahgB58ZPTvfVul+FLIH2eOPcuUUAAXOKo6hMBAlkFYgPXZqVd7sna6KZphgiuIWhduu+k02fgdgXAfQc6x9jsC46bR8LYCRwj6ZoaBATAGkZZHwkQGFQg57uLpRtecpawTzjc7nfbrOCh9wQ37933rmJpZ+UTmJqAADi1EdEeAjMTKBkgZkbRubljfuu45PeHcwXA9aHRR+/5Z81Pr36uu/OVRzrNVHau0I0EJiwgAE54cDSNQC6BkjNSJZYZQ3svP/LkYJ86y+XctZzUADjk8vKuzRRd+7l53/polpR3Bzdn79pmBHe9I7gKkicPOxMwxwAqY/YCAuDsh1AHCMQJDBka4lq0/6rUQLSvpCUGyaF3NLcFra5j3bfctk0gXdvlPgK1CAiAtYy0fhKoVKDPEvWYZ/P1Ha6h2t5lJu9Q3/p8I3hfqNxsY65l6b7j434CYwsIgGOPgPoJEJisQJcQFWYdw+/89MVR+5VrFrVPJzZ33/YpJ+bedbALY7b9nmDf2caY+l1DYG4CAuDcRkx7CRCYtMDQS7R9MEofKJ1rdjBluXf9nuCu0BfKuet9H23u3Lzuc3B9Hhz3LkJAAFzEMOoEAQJzFSgdwg65xLwXWmL2LMcybFu7doXPcI/vAc/13xTtzi0gAOYWVR6BhQv0eaeujSYmkLSVMbe/pywZp1ybyyEEqbMbV3MVtyonRwBM+azbdlhsC49ZO6swAhMVEAAnOjCaRaCkQJ/dsWHG6vb1Z7O/45b7qJolhsku7ySWfI76fLVjX7tSgt1mGYc+SbdZZulvEJf0VjaBnAICYE5NZRGYkUDJmbyuDLlCW9/38EoejtzVJuW+IZeVc2/06Do7dyjY7fvmcIqpawksTUAAXNqI6g8BAr0Fus605QqwfTsQ047SITfXTNuhT7wdctoVJNeHWof7zm9e78vsfgKzFhAAZz18Gk+AwFQEci9hl+5X6QCYGs5S+9s2U5h7ZjK1fa4nMHUBAXDqI6R9BAgsUmAdGG9deyr7+5Q5wLrOvMXU3fd4mNTDojfDYo4NKDF9dA2BqQsIgFMfIe0jQGCxAjFLtevOd12W7oPXNsvW9vfUuvssGx+a8bv7Q59qml/85dUB0Yc2i6S21/UE5iwgAM559LSdQGaBuS1jZu7+pIsbIwAeAlnPEIYjYi5ePc1i1yecxcwq5g6sWTqtEAIjCQiAI8GrlsBUBTZnpe792BdWR76cXX+2SHNz7lbtc7RNkc6NVGhO065dyLnMut64kbJpY1+QDGWF352bz2cLrV2N3EdgbAEBcOwRUD+BCQukLFFOoRt9j7YJgXeq7+Tl9C09m5gzAO6atWubyeuzlJzTWVkEpiwgAE55dLSNAIFBBboE3jkum8d8UaQtZHUdmC4zett1pRwWvf0d4Zil4q59cx+BOQkIgHMaLW0lMLLAmEeHjNz1g9WnzjyWnoHLYZUSslLq2xcs+7z/F+rfV+56NvDiJ6eWfVMGyrWLFxAAFz/EOkggn0DMzFG+2pZbUqpjasAsLVfiE3B9lm1j7825NF3aWPkESgsIgKWFlU+AAIGeAmFjx61rT7eW0mUJu7XQPRccOnYl1/Jx18C2q22bM4GhS7l2Lnf1cx+BsQUEwLFHQP0EFiJgF+74AzmFTSw5D5DuEwAt+Y7/PGrBtAUEwGmPj9YRGERgiHf7Snz5Ise7dEPOmg0ymC2VlD7a51D1sUu1h8pI3USyWWfOcDqFsdQGAn0EBMA+eu4lsBCBsMQYzvs7P32xaI9yh61Q3tHJw73OKew6a5b6Hl9R2ITC28ag72aMQ005NKMXu2yceizMehdwaJdl34QHxaWLFxAAFz/EOkiAwMFZqZOHOgXfLrOPQ8y05hjtQ+/3hfJjw1psW/rOzIUdy7e/+czB6gTB2NFwXS0CAmAtI62fBAiMLpAaANtm68boUN+wltLmLkFz+9y/dX3rpeDw/0/5qkhKe11LYE4CAuCcRktbCRCoSqDr8nRppENn+R1febQJ3wfO8WubidxVx74AmKM9yiCwJAEBcEmjqS8ECFQpMIXv/27OtJWaYUvdFby97CscVvmvh07vERAAPRoECBCoQGDsT9bl2AHcNQBeuu/Esm8Fz7gupgkIgGleriZQnUDX99C63ncIONfO2xJtm8OD0dbvHCEt1SE11G2XH/vJupK7m1P77HoCUxAQAKcwCtpAoLBA23/491UfNi0cnzwU9RWKzTK63tfG0GXn7XaZfdqWo/62Po7597YAWCpEdXnXb5/TrvcTbQAZ86lS91QFBMCpjox2EcgkEELL5UeebF774icylVhvMV0C4NhLrzlHKwSpo/uvZNvkcSjEhQOf24522b5/qPblNFUWgbEEBMCx5NVLgEA1AiE4nl1/Nqq/cw2MfZdyt3FSD3xumxFsm92MGhwXEViQgAC4oMHUFQIEliEQGxintPs3yO87HibH7tvUAOfg52X8u6AX5QQEwHK2SiZAgEBRgdh3O8N5gmO+ApAjAO6CjA2Fpd5dLDq4CidQWEAALAyseAIECIwt0BYUcy/fxvY31Nvn4OiYYLeu4/zVm46CiR0Y11UhIABWMcw6SYAAgcMCbTtx2/6e07fLJ+DGCrE5+60sAkMKCIBDaquLwMIE2maW+nS3y47bXfX1LSf2fbw+fZ3DvWFX7p2bzzcXr54Wb26XsHkoAApRrr30AAAQbklEQVSHxYdMBTMUEABnOGiaTGAqAiW/VZvz0OfgdX76Yie2rn0M992+/mzS7t+ubezUsYw3hXBYcok1NcClXp+RQlEEZiMgAM5mqDSUAIE5CaTOjqYEzRyzkuELGqnn7O3zP7Rk22U2b7ueXYGuyzLxnJ4fbSVQWkAALC2sfAIECGQWiA2Lx7/+oebOX/5p5trTijsUAGND3K7rYpakw33hurMbVwdZuk6TcTWBcQUEwHH91U6AAIFiAnd/+NPN7W99qbn40ff31hEbwnbNyoV/1uWdwPUXO3K+U7ivH137V2xQFExgIgIC4EQGQjMIECAwhkBYCp7KDFnXd/cOnQeYYwl6jHFRJ4HSAgJgaWHlEyBAYMYCMUutubrXNQBu1r8941fqEOpcfVYOgbEEBMCx5NVLYGECYdPD5UeebG5de3phPdOdfQJ9D3KOkY392se6LIEvRtU1BJpGAPQUECCQTSB152uO3axv/Ic/QwDtE2LDvUcnD0cf+5INfeSCDn3/NzTt/Ob17C2MWdaN+UpI9oYpkMCMBATAGQ2WphIYWiBnQNtseyj3/PSF1YxhOCsv1/l3fdvbJ8SlHjgd6rrn8c80t649FdX/tVkuq9LP0qGZu74bM9Y7ew/1wUxg6RFW/twFBMC5j6D2EygocM/jv/+mJd3UGb6CTVtE0SmesQEwx3t0JXHXR7PkOoNQ0Cs5WspesoAAuOTR1TcCGQVCADk+ecg7fhlNSxQV887cEO/upfYtpt27yty31Dv1IJzq43oCuQUEwNyiyiNAgMAMBNreoxt6Zm3XsnDqUvH29an3z2DYNJFANgEBMBulgggQILAcgbYAOES4Sj2jsC3ULmd09IRAfwEBsL+hEggQIFCVQNvyaqkg1razd92ui5+cdvpCSVWDqLPVCwiA1T8CAAgQIJBPIIS/43c+2uTa5LHZstj3BGN2CefrsZIIzFNAAJznuGk1gWoFUnbOHkJKPbZlu6wuR850uWdJA526pHuo722zgUty0xcCJQQEwBKqyiRAoMkV1LYp7/3YF6LPzmsLgOEswq7n6oUjclLPMEy9J6WvQ7yT1/ex3rfRI5R78eppcvG7lprblqeTK3EDgYUKCIALHVjdIjC2QEp4GbutU60/NkTHLru2bewYwyF2WfdQ27aD4BzC8BjW6iSwKSAAeh4IECBQiUBMACy1gSOFODUUxvQrpX7XEqhBQACsYZT1kQABApEChwLgUO/dxdYTe11k111GoCoBAbCq4dZZAgQI/EygyzJp2/t1XcqMGY99n4/bDIC5PzEX0y7XEJizgAA459HTdgIECHQU2A5rfZd+w/1H919pzm5c7diiw7eVCpdFGqtQAjMQEABnMEiaSIAAgTkL5D7+JZzzt33OoIA45ydE28cQEADHUFcnAQKzEojdjbvdqa73zQonorG5j3/ZVaWNIBED4RICGwICoMeBAIFFCBw/8Fhz9MBjze2vff6N/oQAdvmRJ5tb157u3MdwePPxyUPJZYT7Qt2vffET0XWnHJ0z98DT9j5hDJovfsQouYbAbgEB0JNBgMBkBEJgu+fxzySFprbGz+nrGykzhrEBMOfya5t137+nhkLLvn3F3V+zgABY8+jrO4EEgaGC1FD1JHR91pe2haT17tmweWPf1zjayigJ1FZ3299Ltk3ZBOYsIADOefS0ncCAAqmfMRuwaarqKdAWonLMInbZZRxztEuXcntyuZ3AIgQEwEUMo04QIECgnMChgBjewzt/9WZzfvP6wQY4tLnc+CiZQBcBAbCLmnsIECBQUKBtRq5g1clF72tr+OfHVx7Ndi7gdnlm/pKHyg0E3iQgAHogCBAgMDGBOQXAQ3QlQ9pSjCb26GlORQICYEWDrasECBAYWyB29/K+dob7w69tyXnsfqqfwNQFBMCpj5D2ESAweYGU41sm35kRGpgyU2jmb4QBUuUiBQTARQ6rThEgkCLQ58Do9dmFt6491Zyfvhhdbcqhz6HQ2J24fWfYojuQ8cKUDSICYEZ4RVUtIABWPfw6T2DeArkOjg7lHJ083Jxdf7YTSJcZwNR7YoNPTACc+jLqoRlBX//o9Ii6icBbBARADwUBAsUFwuHO56cvJM2QxTYqNUjFlrvk69pm3GLO3yvpExt2S7ZB2QSWLiAALn2E9Y/ABARKBsAJdG+RTTgUwmKXo/vCtAXVvuW7n0DNAgJgzaOv7wQIEOggcOjsv0v3nWTdoZuyQaRDV9xCoFoBAbDaoddxAgQI5BUIwTB3AAwttCScd5yURmD171XTNBcoCBAgQIBAKYGYjSn76p76hpVSZsolUFpAACwtrHwCBAgQeIuApV0PBYFxBQTAcf3VToBAi0DfI1oAT1OgbVbQsu80x02rliMgAC5nLPWEwGIFwi7irmf0jY1y/MBjzZ0ffD26GZfe/muray9+9H+i7llCUNr17qAZwqjhdxGBzgICYGc6NxIgMBeBvmcFhgAafl1C6H2f+vPm9S9/MjoEHv/6h1Z13fnLP23lDSHp6P4rzdmNqwevnUOYmkMbWwfEBQRmJCAAzmiwNJXAUgT6BrIUhxxfCxmyvSl9i7227Ty9sQ9+3uzHEmY0Y8fFdQTGFBAAx9RXN4EKBdq+u9tntq1CzmxdPhS8wufXzl+9mfV8v30NNxOYbUgVROCggADoASFAIFpg7jNh0R114ZsEDh38fHzl0dYlaJwECExPQACc3phoEYFJCpiZm+SwJDcq9xLrrhm7tiXnfY0udZB0MpIbCFQgIABWMMi6SIAAgbVAWM5t2zTSV8vhzX0F3U+gvIAAWN5YDQQIEKhewLt91T8CACYmIABObEA0hwABAksUyL30vEQjfSIwpIAAOKS2uggQIECgafsKCCICBMoLCIDljdVAgMAEBC5/8Hea8x98PfpA5gk0eZJNyLGUazZwkkOrUZUJCICVDbjuEqhVIHySLfxSPssWYxWCZfjd/trnYy5fXRPaEu4LXwiJ+cWewxe7i7ZPAOtz72ZfcwTJGDvXECCwW0AA9GQQIFC1wL0ff6a5dfWp5vz0hU4OqcEyNqRtNiY2dMWUPZWvfgiAnR43NxHIJiAAZqNUEAECQwi0fUkktQ1HJw93Dn+pda2vn3L4OfR+XmwQ7eriPgIEhhMQAIezVhMBApkEwqHUZ9efzVSaYmIFLr//483tbz4Te/lbrut6QHTnCt1IgMBeAQHQw0GAAAECnQVilp07F+5GAgSKCQiAxWgVTIAAgeUL7JrVs1S8/HHXw/kLCIDzH0M9IECAwGQEprLJZDIgGkJgogIC4EQHRrMIECBAgAABAqUEBMBSssolQIBAxQJhN3H4nd+8XrGCrhOYroAAON2x0TICBAgQIECAQBEBAbAIq0IJECBAgAABAtMVEACnOzZaRoDADAVSvwwSunj8vo+uenrnpedaexy7tGonbiulCwhULSAAVj38Ok+AwD6B+z7156tv9aZ+O7jLt4GPfuk9q2ac//B7rQMSe5hyOLT57MbV5uLV051lTvlrJK0ILiBAoLeAANibUAEECExFIMy+HT3wWHP7a5/v3aRQVmr4613pgAXsC4CHPgU3YPNURYBAYQEBsDCw4gkQGE4gZwAcrtXTqmnfDKMl5WmNk9YQ6CsgAPYVdD8BAgQWLhD73uHCGXSPwKIEBMBFDafOECCwLWBWMO8z4du/eT2VRmAsAQFwLHn1EiAwiIAAmJc5dhNK3lqVRoBAbgEBMLeo8ggQIDBBAbt+JzgomkRgRAEBcER8VRMgQGAoAZs4hpJWD4F5CAiA8xgnrSRAgAABAgQIZBMQALNRKogAAQIECBAgMA8BAXAe46SVBAgQIECAAIFsAgJgNkoFESBA4OcC4ZNwKV8kSdld630+TxoBAn0FBMC+gu4nQGCxAuEImRDkwjeBU3/hvvMffD36c3Kxhy23XeecvtSRcj2BOgUEwDrHXa8JEIgUSJ3Jiyy22GWHPuV26b6T5vzm9WJ1K5gAgfkICIDzGSstJUCAQGcBy8ad6dxIYJECAuAih1WnCBAgQIAAAQL7BQRATwcBAgQIECBAoDIBAbCyAdddAgQIECBAgIAA6BkgQIAAAQIECFQmIABWNuC6S4AAAQIECBAQAD0DBAgQIECAAIHKBATAygZcdwkQIECAAAECAqBngAABAgQIECBQmYAAWNmA6y4BAgQIECBAQAD0DBAgQCCDQMqXNlKuzdA0RRAgQOAtAgKgh4IAAQJN0xw/8Fhz9MBjze2vfb6Tx+X3f7w5u3G1uXj19OD9IfwdX3l0de32764Hn9j5zzs1yE0ECBA4ICAAejwIECDw/wUuf/B3OgfAHIhmBnMoKoMAgRgBATBGyTUECBAgQIAAgQUJCIALGkxdIUCAAAECBAjECAiAMUquIUCAAAECBAgsSEAAXNBg6goBAgQIECBAIEZAAIxRcg0BAgQIECBAYEECAuCCBlNXCBAgQIAAAQIxAgJgjJJrCBAgQIAAAQILEhAAFzSYukKAAAECBAgQiBEQAGOUXEOAAAECBAgQWJCAALigwdQVAgQIECBAgECMgAAYo+QaAgQIECBAgMCCBATABQ2mrhAgQIAAAQIEYgQEwBgl1xAgQIAAAQIEFiQgAC5oMHWFAAECBAgQIBAjIADGKLmGAAECBAgQILAgAQFwQYOpKwQIECBAgACBGAEBMEbJNQQIECBAgACBBQkIgAsaTF0hQIAAAQIECMQICIAxSq4hQIAAAQIECCxIQABc0GDqCgECBAgQIEAgRkAAjFFyDQECBAgQIEBgQQIC4IIGU1cIECBAgAABAjECAmCMkmsIECBAgAABAgsSEAAXNJi6QoAAAQIECBCIERAAY5RcQ4AAAQIECBBYkIAAuKDB1BUCBAgQIECAQIyAABij5BoCBAgQIECAwIIEBMAFDaauECBAgAABAgRiBATAGCXXECBAgAABAgQWJCAALmgwdYUAAQIECBAgECMgAMYouYYAAQIECBAgsCABAXBBg6krBAgQIECAAIEYAQEwRsk1BAgQIECAAIEFCQiACxpMXSFAgAABAgQIxAgIgDFKriFAgAABAgQILEhAAFzQYOoKAQIECBAgQCBGQACMUXINAQIECBAgQGBBAgLgggZTVwgQIECAAAECMQICYIySawgQIECAAAECCxIQABc0mLpCgAABAgQIEIgREABjlFxDgAABAgQIEFiQgAC4oMHUFQIECBAgQIBAjIAAGKPkGgIECBAgQIDAggQEwAUNpq4QIECAAAECBGIEBMAYJdcQIECAAAECBBYkIAAuaDB1hQABAgQIECAQIyAAxii5hgABAgQIECCwIAEBcEGDqSsECBAgQIAAgRgBATBGyTUECBAgQIAAgQUJCIALGkxdIUCAAAECBAjECAiAMUquIUCAAAECBAgsSEAAXNBg6goBAgQIECBAIEZAAIxRcg0BAgQIECBAYEECAuCCBlNXCBAgQIAAAQIxAgJgjJJrCBAgQIAAAQILEhAAFzSYukKAAAECBAgQiBEQAGOUXEOAAAECBAgQWJCAALigwdQVAgQIECBAgECMgAAYo+QaAgQIECBAgMCCBATABQ2mrhAgQIAAAQIEYgT+Hy/eIx69rrH8AAAAAElFTkSuQmCC"
+}
